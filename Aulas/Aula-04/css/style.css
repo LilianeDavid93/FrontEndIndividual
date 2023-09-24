@@ -1,0 +1,22 @@
+body {
+  height: 100vh;
+  background-image: url("../img/148.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: right bottom;
+}
+p {
+  color: blueviolet;
+  font-size: 36px;
+}
+.container {
+  width: 1%;
+  height: 1%;
+  background-color: blue;
+  margin: auto;
+  padding: 65;
+}
+img {
+  width: 100;
+  float: left;
+}
